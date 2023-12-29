@@ -48,5 +48,6 @@ export default {
 		dataSheet: '数据集',
 		description: '描述',
 		prompt: '提示语句',
+		add: '添加',
 	}
 }
